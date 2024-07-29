@@ -34,10 +34,10 @@ education:
   position: B.S. in Data Science and Big Data
   date: Sep. 2020 - Jul. 2025
 
-Research Interests:
-- name: LLM Agent: Multi-agent Collaboration, Social Scene Simulation
-- name: Efficient AI: Sparsity, Model Lightweighting
-- name: Data Mining: Graph Learning, Graph Sparsification
+# Research Interests:
+# - name: LLM Agent: Multi-agent Collaboration, Social Scene Simulation
+# - name: Efficient AI: Sparsity, Model Lightweighting
+# - name: Data Mining: Graph Learning, Graph Sparsification
 
 awards:
 - name: National Scholarship in Tongji University
