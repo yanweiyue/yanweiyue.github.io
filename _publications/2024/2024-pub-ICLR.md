@@ -9,7 +9,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2024"
 
 abstract: >-
-  We train the edge learner in the global perspective and learn row-wise thresholds in the node perspective for pruning through trainable edge weights and threshold vectors.It implements an Adaptive,Dynamic,Automatic process to find winning tickets.
+  We train the edge learner in the global perspective and learn row-wise thresholds in the node perspective for pruning through trainable edge weights and threshold vectors.It implements an Adaptive,Dynamic,Automatic process to find winning tickets.
 cover:          /assets/images/covers/adaglt.png
 authors:
   - Guibin Zhang†
