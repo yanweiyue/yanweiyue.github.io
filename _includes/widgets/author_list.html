@@ -5,11 +5,11 @@
 {%- for _key in authors -%}
 {%- assign last_char = _key | slice: -1, 1%}
 {%- if last_char == "†" -%}
-{%- assign key = _key | split: "*" | first -%}
+{%- assign key = _key | split: "†" | first -%}
 {%- assign mark = "†" -%}
 {%- assign has_eq_contrib = true -%}
 {%- elsif last_char == "*" -%}
-{%- assign key = _key | split: "#" | first -%}
+{%- assign key = _key | split: *" | first -%}
 {%- assign mark = '*' -%}
 {%- assign has_corresponding = true -%}
 {%- else -%}
