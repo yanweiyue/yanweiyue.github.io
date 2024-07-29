@@ -9,8 +9,8 @@
 {%- assign mark = "†" -%}
 {%- assign has_eq_contrib = true -%}
 {%- elsif last_char == "*" -%}
-{%- assign key = _key | split: *" | first -%}
-{%- assign mark = '*' -%}
+{%- assign key = _key | split: "*" | first -%}
+{%- assign mark = "*"" -%}
 {%- assign has_corresponding = true -%}
 {%- else -%}
 {%- assign key = _key -%}
