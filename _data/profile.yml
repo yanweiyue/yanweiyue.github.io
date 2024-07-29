@@ -3,7 +3,6 @@ secondary_name: "岳彦伟"
 navbar_name: "Yanwei Yue"
 
 positions:
-- name: Position without logo
 - logo: /assets/images/badges/tongji.png
   name: B.S., Tongji University
 
